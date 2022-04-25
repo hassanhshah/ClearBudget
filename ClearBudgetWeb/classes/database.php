@@ -1,7 +1,7 @@
 <?php
 class Database {
     // Connection variables
-    private $host = "localhost:8889";
+    private $host = "localhost";
     private $dbName = "ClearBudget";
     private $username = "root";
     private $password = "root";
